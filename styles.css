@@ -1,0 +1,62 @@
+#boton-mario {
+  width: 150px;
+  height: 40px;
+  font-weight: bold;
+  margin: 10px;
+  border: 4px solid red;
+  background-color: red;
+  color: white;
+}
+
+#boton-luigi {
+  width: 150px;
+  height: 40px;
+  font-weight: bold;
+  margin: 10px;
+  border: 4px solid #32851d;
+  background-color: #32851d;
+  color: white;
+}
+
+.flexbox {
+  display: flex;
+
+}
+
+.cuadrito {
+  width: 45px;
+  height: 45px;
+  border: 1px solid black;
+  background-color: white ;
+}
+
+.cuadro {
+  width: 45px;
+  height: 45px;
+  border: 1px solid black;
+  background-color: white;
+}
+
+.red-color{
+  background-color: red;
+}
+
+.brown-color{
+  background-color: brown;
+}
+
+.skin-color{
+  background-color: #E5C298;
+}
+
+.blue-color{
+  background-color: blue;
+}
+
+.yellow-color{
+  background-color: yellow ;
+}
+
+.green-color{
+  background-color: green;
+}
